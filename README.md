@@ -1,4 +1,4 @@
- # API Performance Profiler using Locust
+ # API Performance Analyzer & Load Testing Toolkit
 
 This project demonstrates how to perform load testing on REST APIs using the Locust framework.
 
